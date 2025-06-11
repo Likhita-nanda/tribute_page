@@ -5,7 +5,7 @@ This is a simple and responsive tribute web page dedicated to **Savitribai Phule
 [Click here to view the form](https://likhita-nanda.github.io/survey_form/) 
 
 
-[GitHub Repository](https://github.com/Likhita-nanda/tribute_page)
+[GitHub Repository](https://likhita-nanda.github.io/tribute_page/)
 
 ## 📝 Features
 Beautifully styled layout using HTML and CSS
