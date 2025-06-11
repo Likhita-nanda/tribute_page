@@ -2,10 +2,10 @@
 This is a simple and responsive tribute web page dedicated to **Savitribai Phule**, a pioneering social reformer, educator, and poet who played a vital role in promoting women's education and fighting against social injustice in India.
 
 ## 🔗 Live Demo
-[Click here to view the form](https://likhita-nanda.github.io/survey_form/) 
+[Click here to view the form](https://likhita-nanda.github.io/tribute_page/) 
 
 
-[GitHub Repository](https://likhita-nanda.github.io/tribute_page/)
+[GitHub Repository](https://likhita-nanda.github.io/Likhita-nanda/)
 
 ## 📝 Features
 Beautifully styled layout using HTML and CSS
